@@ -1,6 +1,6 @@
 ---
-layout: page
-title: DataTables Test
+layout: default
+title: Bitcoin All Time High in Different Currencies
 ext-css:
   - //stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
   - //cdn.datatables.net/v/dt/dt-1.10.18/fh-3.1.4/r-2.2.2/datatables.min.css
