@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Default
 title: Bitcoin All Time High in Different Currencies
 ext-css:
   - //stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
@@ -28,8 +28,8 @@ ext-js:
 
 
 <div class="container text-center">
-    <h1 class="jumbotron-heading">Top Fiat Currencies by Market Capitalization</h1>
-    <p class="lead text-muted">Major fiat currency market cap in BTC</p>
+    <h1 class="jumbotron-heading">Bitcoin All Time High in Different Currencies</h1>
+    <p class="lead text-muted">Are we there yet?</p>
 
     <ul class="nav nav-tabs mb-1">
         <li class="nav-item">
