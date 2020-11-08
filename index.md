@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Bitcoin All Time High in Different Currencies
 ext-css:
   - //stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
