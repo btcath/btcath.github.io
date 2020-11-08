@@ -100,8 +100,8 @@ text-col: "#404040"
 link-col: "#F2A900"
 hover-col: "#0085A1"
 footer-col: "#000000"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#F2A900"
 
 # Original Colors
 # navbar-col: "#EAEAEA"
