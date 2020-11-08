@@ -1,5 +1,5 @@
     $(document).ready(function () {
-        $('#btcath').DataTable({
+        $('#currency-ranking').DataTable({
             "paging": false,
             "info": false,
             fixedHeader: true,
