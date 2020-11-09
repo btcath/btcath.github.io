@@ -56,7 +56,7 @@ ext-js:
                 <tr>
                     <td class="text-left">1</td>
                     <td class="text-left" data-search="CNY" data-order="CNY">
-                        <img src="https://www.countryflags.io/cn/shiny/24.png" width="24" height="18" class="mr-1 mb-1 border border-light" />CNY
+                        <img src="https://www.countryflags.io/cn/shiny/64.png" width="24" height="18" class="mr-1 mb-1 border border-light" />CNY
                     </td>
                     <td class="text-right" data-search="2,345,417,744" data-order="2,345,417,744">2,345,417,744 BTC</td>
                     <td class="text-right" data-search="1,083" data-order="1083.7943811695893827670255485">1,083 sats</td>
